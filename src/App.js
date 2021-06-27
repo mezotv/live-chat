@@ -10,13 +10,7 @@ import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData, useCollectionDate } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyDs407HLwS_xWQ8-EI_UqhiVWDNr7Xe72s",
-  authDomain: "livechat-c4a72.firebaseapp.com",
-  projectId: "livechat-c4a72",
-  storageBucket: "livechat-c4a72.appspot.com",
-  messagingSenderId: "916670601444",
-  appId: "1:916670601444:web:b4e59d512584c8225a74f1",
-  measurementId: "G-S5FSR2LZTS"
+
 })
 
 const auth = firebase.auth();
