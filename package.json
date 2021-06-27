@@ -45,6 +45,6 @@
   }
     "repository": {
     "type": "git",
-    "url": "git+https://github.com/002-Development/002-remake.git"
+    "url": "git+https://github.com/mezotv/live-chat.git"
   },
 }
