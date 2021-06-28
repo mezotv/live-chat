@@ -10,7 +10,7 @@ import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData, useCollectionDate } from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
-
+ //hehe don't yeet my keys
 })
 
 const auth = firebase.auth();
